@@ -1,0 +1,31 @@
+h1{color: blue}
+h2{font: 13px}
+p{font-size: 14px;background-color: black; color: yellow;}
+img{border-width: 2px;border-style: solid;border-color: red;}
+#div1{width: 960px;height:100px;margin: 0 auto;  background-color: red;}
+#div11{width: 100px;
+      height: 100px;
+      border-style: solid;
+      border-color: black;
+      border-radius: 25px;}
+
+.div2{width:400px; height: 400px}      
+.dive22, .div23, .div24, .div25{width:auto;height:10px;background-color: lightblue;
+    border: 0 2px solid black;}
+.div21{margin: 5px;border-top: 2px sloid black;}
+.div22 .div23{margin: 2px }
+.div24 .div25{margin: 1px }
+.main{height:200px}
+/**第三题**/
+#a{width:200px;background-color: red ;float:left}
+#b{margin-left: 200px;background-color: blue}
+#c{background-color: yellow}
+
+/**第四题**/
+.l{background-color: red;width:auto;}
+.la{background-color: blue;float:left;width: 100px;height: 100px;margin:10px}
+
+/**第五题**/
+#div51{width :200px;background-color: red;float:left}
+#div52{width: auto;background-color:blue;float:left}
+#div53{width: 200px;background-color: yellow;float:left}
